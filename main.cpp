@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hello, from cpp!\n";
+    std::cout << "Hello, from feature A!\n";
 }
